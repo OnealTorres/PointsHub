@@ -1,4 +1,4 @@
-rootProject.name = 'onlyfacts'
+rootProject.name = 'PointsHub'
 
 dependencyResolutionManagement {
   versionCatalogs {
