@@ -4,7 +4,7 @@
     "slug": "onlyfacts",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/Vertical PH.png",
+    "icon": "./assets/images/appico.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
